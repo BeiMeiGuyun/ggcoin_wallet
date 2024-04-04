@@ -1,5 +1,5 @@
 {
-  "name": "ggcoin_wallet",
+  "name": "@ggcioin/ggcoin_wallet",
   "version": "0.0.1",
   "description": "Simple BIP39 Ethereum Address Generator",
   "author": "ggcoin <gl2322024211@gmail.com>",
